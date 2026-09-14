@@ -1,0 +1,7 @@
+{
+  "name": "FPA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
