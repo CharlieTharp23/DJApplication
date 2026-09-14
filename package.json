@@ -12,6 +12,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@auth0/auth0-react": "^2.25.0",
     "@capacitor/app": "8.1.1",
     "@capacitor/core": "8.5.2",
     "@capacitor/haptics": "8.0.2",
@@ -19,9 +20,10 @@
     "@capacitor/status-bar": "8.0.3",
     "@ionic/react": "^9.0.0",
     "@ionic/react-router": "^9.0.0",
+    "firebase": "^12.19.0",
     "ionicons": "^8.1.0",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
     "react-router": "^6.30.0",
     "react-router-dom": "^6.30.0"
   },
